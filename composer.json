@@ -1,0 +1,14 @@
+{
+    "name": "alvez2g/catbox-php-bot",
+    "autoload": {
+        "psr-4": {
+            "CatboxPhpBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alvez2g"
+        }
+    ],
+    "require": {}
+}
