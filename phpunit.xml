@@ -19,7 +19,7 @@
   </testsuites>
 
   <php>
-    <env name="DISCORD_WEBHOOK_URL" value="https://discord.com/api/webhooks/1162933645154209832/57uRY2nwlihHbilNHaKBR0DHIKKX3BBbsBBCviTwRJKwHnoGF0iOC3l2ae7DiQwzkKbt"/>
+    <env name="DISCORD_WEBHOOK_URL" value="REPLACE YOUR WEBHOOK URL HERE"/>
   </php>
 
 </phpunit>
